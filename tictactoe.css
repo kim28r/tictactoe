@@ -1,0 +1,19 @@
+.r1 {
+    height: 200px;
+    width: 200px;
+    border: solid black 7px;
+    text-align: center;
+    font-size: 90px;
+}
+.container {
+    margin:auto;
+}
+table {
+    margin:auto;
+}
+
+h1 {
+    text-align: center; 
+    border:5px;
+    padding-bottom: 10px;
+}
